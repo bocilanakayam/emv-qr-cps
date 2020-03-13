@@ -13,10 +13,10 @@
         }
     ],
     "support": {
-        "docs": "https://arcticfalcon.github.io/emv-qr-cps/",
-        "issues": "https://github.com/arcticfalcon/emv-qr-cps/issues",
-        "source": "https://github.com/arcticfalcon/emv-qr-cps.git",
-        "wiki": "https://github.com/arcticfalcon/emv-qr-cps/wiki"
+        "docs": "https://bocilanakayam.github.io/emv-qr-cps/",
+        "issues": "https://github.com/bocilanakayam/emv-qr-cps/issues",
+        "source": "https://github.com/bocilanakayam/emv-qr-cps.git",
+        "wiki": "https://github.com/bocilanakayam/emv-qr-cps/wiki"
     },
     "require": {
         "php": "^7.1"
