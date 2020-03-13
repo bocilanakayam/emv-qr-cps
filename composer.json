@@ -1,15 +1,15 @@
 {
-    "name": "arcticfalcon/emv-qr-cps",
+    "name": "bocilanakayam/emv-qr-cps",
     "description": "EMV QR Code Specification for Payment Systems: Merchant-Presented Mode",
     "type": "library",
     "keywords": ["emv", "qr", "cps", "merchant"],
-    "homepage": "https://github.com/arcticfalcon/emv-qr-cps",
+    "homepage": "https://github.com/bocilanakayam/emv-qr-cps",
     "license": "MIT",
     "authors": [
         {
             "name": "Juan Falcón",
             "email": "jcfalcon@gmail.com",
-            "homepage": "https://github.com/arcticfalcon"
+            "homepage": "https://github.com/bocilanakayam"
         }
     ],
     "support": {
@@ -31,12 +31,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Arcticfalcon\\EmvQr\\": "src/"
+            "bocilanakayam\\EmvQr\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Arcticfalcon\\EmvQr\\Test\\": "tests/"
+            "bocilanakayam\\EmvQr\\Test\\": "tests/"
         }
     },
     "scripts": {
