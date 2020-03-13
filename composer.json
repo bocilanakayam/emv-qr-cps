@@ -1,7 +1,7 @@
 {
     "name": "bocilanakayam/emv-qr-cps",
     "description": "EMV QR Code Specification for Payment Systems: Merchant-Presented Mode",
-    "type": "vcs",
+    "type": "library",
     "keywords": ["emv", "qr", "cps", "merchant"],
     "homepage": "https://github.com/bocilanakayam/emv-qr-cps",
     "license": "MIT",
