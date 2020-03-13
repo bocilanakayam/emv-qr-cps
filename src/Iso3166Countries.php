@@ -11,7 +11,7 @@
 
 declare(strict_types = 1);
 
-namespace Arcticfalcon\EmvQr;
+namespace bocilanakayam\EmvQr;
 
 class Iso3166Countries
 {

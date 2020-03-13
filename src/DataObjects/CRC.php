@@ -11,11 +11,11 @@
 
 declare(strict_types = 1);
 
-namespace Arcticfalcon\EmvQr\DataObjects;
+namespace bocilanakayam\EmvQr\DataObjects;
 
-use Arcticfalcon\EmvQr\Crc16;
-use Arcticfalcon\EmvQr\CrcParams;
-use Arcticfalcon\EmvQr\DataObject;
+use bocilanakayam\EmvQr\Crc16;
+use bocilanakayam\EmvQr\CrcParams;
+use bocilanakayam\EmvQr\DataObject;
 
 class CRC extends DataObject
 {

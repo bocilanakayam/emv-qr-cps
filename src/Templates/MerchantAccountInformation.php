@@ -11,12 +11,12 @@
 
 declare(strict_types=1);
 
-namespace Arcticfalcon\EmvQr\Templates;
+namespace bocilanakayam\EmvQr\Templates;
 
-use Arcticfalcon\EmvQr\DataObjects\GloballyUniqueIdentifier;
-use Arcticfalcon\EmvQr\DataObjects\PaymentNetworkSpecific;
-use Arcticfalcon\EmvQr\EmvQrHelper;
-use Arcticfalcon\EmvQr\Template;
+use bocilanakayam\EmvQr\DataObjects\GloballyUniqueIdentifier;
+use bocilanakayam\EmvQr\DataObjects\PaymentNetworkSpecific;
+use bocilanakayam\EmvQr\EmvQrHelper;
+use bocilanakayam\EmvQr\Template;
 
 class MerchantAccountInformation extends Template
 {

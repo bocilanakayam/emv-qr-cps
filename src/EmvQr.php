@@ -11,17 +11,17 @@
 
 declare(strict_types=1);
 
-namespace Arcticfalcon\EmvQr;
+namespace bocilanakayam\EmvQr;
 
-use Arcticfalcon\EmvQr\DataObjects\CountryCode;
-use Arcticfalcon\EmvQr\DataObjects\GloballyUniqueIdentifier;
-use Arcticfalcon\EmvQr\DataObjects\MerchantCategoryCode;
-use Arcticfalcon\EmvQr\DataObjects\MerchantCity;
-use Arcticfalcon\EmvQr\DataObjects\MerchantName;
-use Arcticfalcon\EmvQr\DataObjects\PayloadFormatIndicator;
-use Arcticfalcon\EmvQr\DataObjects\PointOfInitializationMethod;
-use Arcticfalcon\EmvQr\DataObjects\TransactionCurrency;
-use Arcticfalcon\EmvQr\Templates\MerchantAccountInformation;
+use bocilanakayam\EmvQr\DataObjects\CountryCode;
+use bocilanakayam\EmvQr\DataObjects\GloballyUniqueIdentifier;
+use bocilanakayam\EmvQr\DataObjects\MerchantCategoryCode;
+use bocilanakayam\EmvQr\DataObjects\MerchantCity;
+use bocilanakayam\EmvQr\DataObjects\MerchantName;
+use bocilanakayam\EmvQr\DataObjects\PayloadFormatIndicator;
+use bocilanakayam\EmvQr\DataObjects\PointOfInitializationMethod;
+use bocilanakayam\EmvQr\DataObjects\TransactionCurrency;
+use bocilanakayam\EmvQr\Templates\MerchantAccountInformation;
 
 class EmvQr
 {

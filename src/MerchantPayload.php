@@ -11,23 +11,23 @@
 
 declare(strict_types = 1);
 
-namespace Arcticfalcon\EmvQr;
+namespace bocilanakayam\EmvQr;
 
-use Arcticfalcon\EmvQr\DataObjects\CountryCode;
-use Arcticfalcon\EmvQr\DataObjects\CRC;
-use Arcticfalcon\EmvQr\DataObjects\MerchantCategoryCode;
-use Arcticfalcon\EmvQr\DataObjects\MerchantCity;
-use Arcticfalcon\EmvQr\DataObjects\MerchantName;
-use Arcticfalcon\EmvQr\DataObjects\NullDataObject;
-use Arcticfalcon\EmvQr\DataObjects\PayloadFormatIndicator;
-use Arcticfalcon\EmvQr\DataObjects\PointOfInitializationMethod;
-use Arcticfalcon\EmvQr\DataObjects\PostalCode;
-use Arcticfalcon\EmvQr\DataObjects\TipOrConvenienceIndicator;
-use Arcticfalcon\EmvQr\DataObjects\TransactionAmount;
-use Arcticfalcon\EmvQr\DataObjects\TransactionCurrency;
-use Arcticfalcon\EmvQr\DataObjects\ValueOfConvenienceFeeFixed;
-use Arcticfalcon\EmvQr\DataObjects\ValueOfConvenienceFeePercentage;
-use Arcticfalcon\EmvQr\Templates\MerchantAccountInformation;
+use bocilanakayam\EmvQr\DataObjects\CountryCode;
+use bocilanakayam\EmvQr\DataObjects\CRC;
+use bocilanakayam\EmvQr\DataObjects\MerchantCategoryCode;
+use bocilanakayam\EmvQr\DataObjects\MerchantCity;
+use bocilanakayam\EmvQr\DataObjects\MerchantName;
+use bocilanakayam\EmvQr\DataObjects\NullDataObject;
+use bocilanakayam\EmvQr\DataObjects\PayloadFormatIndicator;
+use bocilanakayam\EmvQr\DataObjects\PointOfInitializationMethod;
+use bocilanakayam\EmvQr\DataObjects\PostalCode;
+use bocilanakayam\EmvQr\DataObjects\TipOrConvenienceIndicator;
+use bocilanakayam\EmvQr\DataObjects\TransactionAmount;
+use bocilanakayam\EmvQr\DataObjects\TransactionCurrency;
+use bocilanakayam\EmvQr\DataObjects\ValueOfConvenienceFeeFixed;
+use bocilanakayam\EmvQr\DataObjects\ValueOfConvenienceFeePercentage;
+use bocilanakayam\EmvQr\Templates\MerchantAccountInformation;
 
 class MerchantPayload
 {

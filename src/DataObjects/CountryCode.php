@@ -11,10 +11,10 @@
 
 declare(strict_types = 1);
 
-namespace Arcticfalcon\EmvQr\DataObjects;
+namespace bocilanakayam\EmvQr\DataObjects;
 
-use Arcticfalcon\EmvQr\DataObject;
-use Arcticfalcon\EmvQr\Iso3166Countries;
+use bocilanakayam\EmvQr\DataObject;
+use bocilanakayam\EmvQr\Iso3166Countries;
 
 class CountryCode extends DataObject
 {
